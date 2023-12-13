@@ -7,7 +7,7 @@ Este repositório contém uma Fake API desenvolvida para ser utilizada nas aulas
 O aplicativo de despesas pessoais tem como finalidade auxiliar os usuários a gerenciar suas finanças pessoais, registrando e exibindo transações realizadas. A Fake API foi criada para fornecer dados fictícios de transações, permitindo testar e desenvolver a interface do aplicativo de maneira eficiente durante as aulas.
 
 ## Exemplo da API em deploy
-https://dashboard.render.com/web/srv-clt23gipmc4c73dva63g/deploys/dep-clt23gqpmc4c73dva6cg
+https://fake-api-transactions-dnc.onrender.com/
 
 ## Tecnologias Utilizadas
 
