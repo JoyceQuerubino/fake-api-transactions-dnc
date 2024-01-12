@@ -24,10 +24,10 @@
     },
     {
       "id": "4",
-      "name": "Cinema",
+      "name": "Jantar",
       "type": "down",
-      "value": "50.00",
-      "category": "leisure",
+      "value": "500.00",
+      "category": "food",
       "date": "20/01/2024"
     },
     {
