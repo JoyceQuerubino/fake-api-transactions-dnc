@@ -18,7 +18,7 @@
       "id": "3",
       "name": "Conta de luz",
       "type": "down",
-      "value": "150.00",
+      "value": "200.00",
       "category": "house",
       "date": "18/01/2024"
     },
@@ -26,15 +26,15 @@
       "id": "4",
       "name": "Jantar",
       "type": "down",
-      "value": "200.00",
+      "value": "250.00",
       "category": "food",
       "date": "20/01/2024"
     },
     {
       "id": "5",
-      "name": "Teatro",
+      "name": "Viagem",
       "type": "down",
-      "value": "50.00",
+      "value": "700.00",
       "category": "leisure",
       "date": "22/01/2024"
     },
