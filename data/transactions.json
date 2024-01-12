@@ -10,7 +10,7 @@
       "id": "2",
       "name": "Compra do mês",
       "type": "down",
-      "value": "1000.00",
+      "value": "800.00",
       "category": "food",
       "date": "15/01/2024"
     },
@@ -18,7 +18,7 @@
       "id": "3",
       "name": "Conta de luz",
       "type": "down",
-      "value": "100.00",
+      "value": "150.00",
       "category": "house",
       "date": "18/01/2024"
     },
@@ -26,7 +26,7 @@
       "id": "4",
       "name": "Jantar",
       "type": "down",
-      "value": "500.00",
+      "value": "200.00",
       "category": "food",
       "date": "20/01/2024"
     },
@@ -34,7 +34,7 @@
       "id": "5",
       "name": "Teatro",
       "type": "down",
-      "value": "100.00",
+      "value": "50.00",
       "category": "leisure",
       "date": "22/01/2024"
     },
